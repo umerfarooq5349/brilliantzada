@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brilliantzada
+- 👀 I’m interested in c++,python cyber security and new tecnology
+- 🌱 I’m currently learning python and c++
+- 💞️ I’m looking to collaborate on python and cyber security
+- 📫 You can reach me by email bintelligent036@gmail.com
