@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brilliantzada
+- 👋 Hi, I’m UmEr FaRoOq
 - 👀 I’m interested in c++,python cyber security and new tecnology
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on python and cyber security
